@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "objsans";
+    src: url(../components/fonts/PPObjectSans-Regular.otf);
+}
+
+@font-face {
+    font-family: "cocogoose";
+    src: url(../components/fonts/Cocogoose\ Pro-trial.ttf);
+}
+
+@font-face {
+    font-family: "aurora";
+    src: url(../components/fonts/AURORA-PRO.otf);
+}
+
+@font-face {
+    font-family: "icons";
+    src: url(../components/fonts/Type\ Icons.ttf);
+}
+
+@font-face {
+    font-family: "pizza";
+    src: url(../components/fonts/New\ Pizza.otf);
+}

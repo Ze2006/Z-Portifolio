@@ -1,0 +1,94 @@
+*{
+    margin: 0px;
+    text-align: center;
+}
+
+
+
+a{
+    color: #A3A207;
+    text-decoration: none;
+}
+
+header{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+body{
+    background: #431B70 no-repeat fixed center;
+    color: #A3A207;
+}
+
+
+footer{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    
+}
+
+#links{
+    font-family: pizza;
+}
+
+#github{
+    scale: 2;
+    background-color: #27054e;
+    display: inline-block;
+    border-radius: 50px;
+    padding: 10px;
+}
+
+#githubicon{
+    font-family: icons;
+}
+
+#instagram{
+    scale: 2;
+    background-color: #27054e;
+    display: inline-block;
+    border-radius: 50px;
+    padding: 10px;
+}
+#musicas1{
+    scale: 2;
+    background-color: #27054e;
+    display: inline-block;
+    border-radius: 50px;
+    padding: 10px;
+}
+
+#sobre{
+    scale: 1.2;
+    font-family: objsans;
+    background-color: #27054e;
+    display: inline-block;
+    border-radius: 50px;
+    padding: 20px;
+}
+
+#contato{
+    scale: 1.2;
+    font-family: objsans;
+     background-color: #27054e;
+    display: inline-block;
+    background-color: #27054e;
+    display: inline-block;
+    border-radius: 50px;
+    padding: 10px;
+}
+
+#coluna{
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+
+#textofoto{
+    margin: 240px 25px 50px 500px;
+}
+
+#eu{
+    scale: 0.2;
+    border-radius: 50%;
+}

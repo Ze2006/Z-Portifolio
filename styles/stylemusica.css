@@ -1,0 +1,73 @@
+a{
+    color: #A3A207;
+    text-decoration: none;
+}
+
+header{
+    scale: 1.5;
+}
+
+body{
+    padding: 50px;
+    font-family: aurora;
+    text-align: center;
+    background: #431B70 no-repeat fixed center;
+    color: #A3A207;
+}
+
+#Musicas{
+    background-color: #27054e;
+    display: inline-block;
+    border-radius: 50px;
+    padding: 20px;
+}
+
+#ben10{
+    background-color: #27054e;
+    display: inline-block;
+    border-radius: 50px;
+    padding: 20px;
+}
+
+#eureka{
+    background-color: #27054e;
+    display: inline-block;
+    border-radius: 50px;
+    padding: 20px;
+}
+
+#melhorar{
+    background-color: #27054e;
+    display: inline-block;
+    border-radius: 50px;
+    padding: 20px;
+}
+
+#voltar{
+    background-color: #27054e;
+    display: inline-block;
+    border-radius: 50px;
+    padding: 10px;
+}
+
+audio::-webkit-media-controls-panel{
+    background-color: #27054e;
+}
+
+audio::-webkit-media-controls-play-button{
+    background-color: #A3A207;
+    border-radius: 50%;
+}
+
+audio::-webkit-media-controls-mute-button {
+    background-color: #A3A207;
+    border-radius: 50%;
+  }
+
+  audio::-webkit-media-controls-current-time-display {
+    color: #A3A207;
+  }
+
+  audio::-webkit-media-controls-time-remaining-display {
+    color: #A3A207;
+  }
